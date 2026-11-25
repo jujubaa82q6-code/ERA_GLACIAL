@@ -98,3 +98,4 @@ O laboratório passa de duas colunas para uma em telas menores que 760 px. Os ca
 5. Vá a 110 °C e resfrie: compare condensação e solidificação.
 6. Explore as seis transformações e responda ao quiz com a turma.
 "# ERA_GLACIAL" 
+"# ERA_GLACIAL" 
